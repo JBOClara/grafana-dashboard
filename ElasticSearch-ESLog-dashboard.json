@@ -61,7 +61,7 @@
   "gnetId": 2322,
   "graphTooltip": 1,
   "id": null,
-  "iteration": 1643136038918,
+  "iteration": 1643136990906,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -3203,7 +3203,7 @@
     ]
   },
   "timezone": "browser",
-  "title": "ElasticSearch - ESLog v1",
+  "title": "ElasticSearch - ESLog",
   "uid": "pSiHOQVmzd",
   "version": 2,
   "weekStart": ""
